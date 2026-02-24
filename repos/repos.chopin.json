@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/cterxn/kernel_xiaomi_chopin",
-      "branch": "r",
+      "repo": "https://github.com/AOSP-13-Mediatek/android_kernel_xiaomi_chopin",
+      "branch": "U",
       "device": "chopin",
-      "defconfig": "chopin_currentgeek_defconfig"
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
